@@ -1,0 +1,83 @@
+.logo__text{
+    margin-top: 55px;
+    text-align: center;
+    width: 331px;
+    height: 88px;
+    color: #333333;
+    font-family: Catamaran;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 54px;
+    /* Text style for "T, alk to" */
+    letter-spacing: 3.6px;
+}
+.wrap__about_quest{
+    height: 31px;
+    color: #00a8b2;
+    font-family: "Catamaran - Black";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 3px;
+    text-align: center;
+    /* Text style for "What is El" */
+    letter-spacing: 3px;
+}
+.wrap__about__text{
+    height: 40px;
+    color: #333333;
+    font-family: Catamaran;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    /* Text style for "Web platfo" */
+    letter-spacing: 1.6px;
+    margin-top: 40px;
+
+}
+.questin_title{
+    height: 24px;
+    color: #00a8b2;
+    font-family: "Catamaran - Black";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 3px;
+    /* Text style for "How it wor" */
+    letter-spacing: 3px;
+    margin-top: 55px;
+    text-align: center;
+}
+.item__title{
+    text-align: center;
+    margin-top: 30px;
+    color: #00a8b2;
+    font-family: "Catamaran - Black";
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+
+}
+.item__text{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Catamaran;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 36px;
+}
+
+.text__footer{
+    color: #ffffff;
+    font-family: Catamaran;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    /* Text style for "C, onnect" */
+    letter-spacing: 1.6px;
+    
+}
+@font-face{
+    font-family: "Catamaran - Black";
+    src: url("catamaran.black.ttf");
+}
